@@ -8,4 +8,4 @@ Task2
 Display mouse coordinates relative to the block at the moment of cursor movement inside the block.
 
 Task3
-Popup window on timer. Bootstrap 4.
+Four seconds after the page loads, show the modal window with the "accept" button. If the user has clicked the “accept” button - no longer show the modal window, otherwise show the modal window when the page is refreshed.
