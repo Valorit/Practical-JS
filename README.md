@@ -9,3 +9,6 @@ Display mouse coordinates relative to the block at the moment of cursor movement
 
 Task3
 Four seconds after the page loads, show the modal window with the "accept" button. If the user has clicked the “accept” button - no longer show the modal window, otherwise show the modal window when the page is refreshed.
+
+Task4
+Progress Bar must be filled for a certain time. The fill time is specified by the developer.
