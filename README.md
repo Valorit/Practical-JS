@@ -3,7 +3,7 @@
 <details>
   <summary>
     <b>
-      <font color="blue">Task 1</font>
+      Task 1
     </b>
   </summary>
   <ul>
@@ -19,7 +19,7 @@
 <details>
   <summary>
     <b>
-      <font color="blue">Task 2</font>
+      Task 2
     </b>
   </summary>
   <ul>
@@ -34,7 +34,7 @@
 <details>
   <summary>
     <b>
-      <font color="blue">Task 1</font>
+      Task 3
     </b>
   </summary>
   <ul>
@@ -53,7 +53,7 @@
 <details>
   <summary>
     <b>
-      <font color="blue">Task 1</font>
+      Task 4
     </b>
   </summary>
   <ul>
