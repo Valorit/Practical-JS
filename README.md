@@ -3,11 +3,16 @@
   <li>
     <details>
       <summary>
-        <h4>Task 1</h4>
-      </summary>
-      <p>
-        Add to images that the user clicked on, the bordered class, the design of which contains a border and a shadow.
-      </p>
+        <h4>
+          <details>
+            <summary>
+              Task 1
+            </summary>
+        </h4>
+        <p>
+          Add to images that the user clicked on, the bordered class, the design of which contains a border and a
+          shadow.
+        </p>
     </details>
   </li>
 
