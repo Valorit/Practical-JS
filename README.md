@@ -67,3 +67,18 @@
     </p>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <b>
+      Task 5
+    </b>
+  </summary>
+  <ul>
+    <p>
+      <li>
+        Сalculate the cost and calorific value of selected products in the menu.
+      </li>
+    </p>
+  </ul>
+</details>
