@@ -1,42 +1,47 @@
 # Practical tasks on JS
-<ul>
-  <details>
-    <li>
-      <h4>
-        <summary>
-          Task 1
-        </summary>
-      </h4>
-      <p>
+
+<details>
+  <summary style="font-size: 1em; font-weight: bold;">Task 1</summary>
+  <ul>
+    <p>
+      <li>
         Add to images that the user clicked on, the bordered class, the design of which contains a border and a
         shadow.
-      </p>
-    </li>
-  </details>
-
-
-  <li>
-    <h4>Task 2</h4>
-    <p>
-      Display mouse coordinates relative to the block at the moment of cursor movement inside the block.
+      </li>
     </p>
-  </li>
+  </ul>
+</details>
 
-
-  <li>
-    <h4>Task 3</h4>
+<details>
+  <summary style="font-size: 1em; font-weight: bold;">Task 2</summary>
+  <ul>
     <p>
-      Four seconds after the page loads, show the modal window with the "accept" button. If the user has clicked the
-      “accept” button - no longer show the modal window, otherwise show the modal window when the page is refreshed.
+      <li>
+        Display mouse coordinates relative to the block at the moment of cursor movement inside the block.
+      </li>
     </p>
-  </li>
+  </ul>
+</details>
 
-
-  <li>
-    <h4>Task 4</h4>
+<details>
+  <summary style="font-size: 1em; font-weight: bold;">Task 3</summary>
+  <ul>
     <p>
-      Progress Bar must be filled for a certain time. The fill time is specified by the developer.
+      <li>
+        Four seconds after the page loads, show the modal window with the "accept" button. If the user has clicked the
+        “accept” button - no longer show the modal window, otherwise show the modal window when the page is refreshed.
+      </li>
     </p>
-  </li>
+  </ul>
+</details>
 
-</ul>
+<details>
+  <summary style="font-size: 1em; font-weight: bold;">Task 4</summary>
+  <ul>
+    <p>
+      <li>
+        Progress Bar must be filled for a certain time. The fill time is specified by the developer.
+      </li>
+    </p>
+  </ul>
+</details>
