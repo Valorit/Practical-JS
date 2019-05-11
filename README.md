@@ -1,10 +1,14 @@
 # Practical tasks on JS
 <ul>
   <li>
-    <h4>Task 1</h4>
-    <p>
-      Add to images that the user clicked on, the bordered class, the design of which contains a border and a shadow.
-    </p>
+    <details>
+      <summary>
+        <h4>Task 1</h4>
+      </summary>
+      <p>
+        Add to images that the user clicked on, the bordered class, the design of which contains a border and a shadow.
+      </p>
+    </details>
   </li>
 
 
