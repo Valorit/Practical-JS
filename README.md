@@ -97,3 +97,18 @@
     </p>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <b>
+      Task 7
+    </b>
+  </summary>
+  <ul>
+    <p>
+      <li>
+        Text encryption and decryption using Caesar`s cipher.
+      </li>
+    </p>
+  </ul>
+</details>
