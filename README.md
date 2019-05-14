@@ -82,3 +82,18 @@
     </p>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <b>
+      Task 6
+    </b>
+  </summary>
+  <ul>
+    <p>
+      <li>
+        Run the script at the specified time.
+      </li>
+    </p>
+  </ul>
+</details>
